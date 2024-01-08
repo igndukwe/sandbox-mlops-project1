@@ -1,10 +1,12 @@
 # sandbox-mlops-project1
 
 ## 1. Install Environment Variable
-- conda create -p venv python==3.9 -y
+- conda create -p venv python==3.10.9 -y
   
 ## 2. Activate Environment Variable
-- conda activate venv/
+- conda activate /Users/ifeanyi.ndukwe/Sandbox-mlops/sandbox-mlops-project1/venv
+### To Deactivate
+- conda deactivate
 
 ## Install Requirements
 - pip install -r requirements.txt
