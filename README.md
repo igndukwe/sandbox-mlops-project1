@@ -4,7 +4,7 @@
 - conda create -p venv python==3.10.9 -y
   
 ## 2. Activate Environment Variable
-- conda activate /Users/ifeanyi.ndukwe/Sandbox-mlops/sandbox-mlops-project1/venv
+- conda activate venv/
 ### To Deactivate
 - conda deactivate
 
